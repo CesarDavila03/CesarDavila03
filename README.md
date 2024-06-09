@@ -1,6 +1,5 @@
 <h1>Hi there 👋, I'm Cesar Davila!</h1>
-
-Hello! I'm a passionate technology professional with a strong background in technical support and consulting. Currently, I'm diving into the world of software engineering, eager to build and contribute to innovative projects.
+  <p>Hello! I'm a passionate technology professional with a strong background in technical support and consulting. Currently, I'm diving into the world of software engineering, eager to build and contribute to innovative projects.</p>
 
 <h2>👨‍💻 Coding Projects</h2>
 
