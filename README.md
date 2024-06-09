@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1>Hi there 👋, I'm Cesar!</h1>
+
+<h2>👨‍💻 Coding Projects:</h2>
+
+- <b>Game Development</b>
+  - [Guessing Game in Python]
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="CesarDavila | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/cesardavila03
 
 <!--
 **CesarDavila03/CesarDavila03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
