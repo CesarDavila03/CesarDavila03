@@ -1,11 +1,13 @@
-<h1>Hi there 👋, I'm Cesar!</h1>
+<h1>Hi there 👋, I'm Cesar Davila!</h1>
 
-<h2>👨‍💻 Coding Projects:</h2>
+Hello! I'm a passionate technology professional with a strong background in technical support and consulting. Currently, I'm diving into the world of software engineering, eager to build and contribute to innovative projects.
+
+<h2>👨‍💻 Coding Projects</h2>
 
 - <b>Game Development</b>
   - [Guessing Game in Python](https://github.com/CesarDavila03/GuessingGame)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="CesarDavila | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
