@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Game Development</b>
-  - [Guessing Game in Python]
+  - [Guessing Game in Python](https://github.com/CesarDavila03/GuessingGame)
 
 <h2> 🤳 Connect with me:</h2>
 
