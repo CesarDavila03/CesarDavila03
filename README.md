@@ -3,6 +3,7 @@
 
 <h2>👨‍💻 Coding Projects</h2>
 
+- [Web Scraper](https://github.com/CesarDavila03/Web_Scraper)
 - <b>Game Development</b>
   - [Guessing Game in Python](https://github.com/CesarDavila03/GuessingGame)
 
