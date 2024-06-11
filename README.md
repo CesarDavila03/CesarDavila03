@@ -5,7 +5,8 @@
 
 - [Web Scraper](https://github.com/cesardavila03/Web_Scraper)
 - <b>Game Development</b>
-  - [Guessing Game in Python](https://github.com/cesardavila03/Guessing_Game)
+  - [Snake Game](https://github.com/cesardavila03/Snake_Game)
+  - [Guessing Game](https://github.com/cesardavila03/Guessing_Game)
 
 <h2> 🤳 Connect with me</h2>
 
